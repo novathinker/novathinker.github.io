@@ -1,15 +1,29 @@
 ---
 layout: post
 title: "About"
-author: "Chester"
+author: "Novathinker"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+IT에 종사하는 엔지니어/개발자들은 어떤 식으로든 데이터를 다루기 마련이다. 
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
+데이터를 만드는 역할을 하는 장비나 솔루션을 통해 다룰 수도 있고 데이터를 유통하는 역할을 할 수 있다. 아니면 데이터를 저장하거나 가공하기도 할 수도 있고 데이터를 예쁘게 시각화하거나 일목 요연하게 보여주는 쪽에 있을 수도 있다. 
 
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
+어떤 목적을 가지고 데이터를 만들고 움직이고 이를 사용하던 것이 빅데이터 이전의 데이터 활용법이었다면 빅데이터 이후는 원래 목적과는 다르게 사용하고 무심코 만들어낸 텍스트 조각마저도 활용할 방법을 찾기 시작하였다.
 
-Thanks for reading!
+이 활용을 보다 부가가치가 높게 해주는 것이 머신러닝, 딥러닝인듯하다. 그러나 이제 40줄을 훌쩍 넘어가는 아재들은 머신러닝/딥러닝에 대해 어려움을 느끼고 있다.(나만 그럴 수도 있다.)
+
+사실 우리가 단순히 IT코드를 짜 맞추거나 솔루션 기능들을 모아서 무언가를 하는 것도 뭔가가 만들어지는 재미가 밑바탕이 되기 때문이 아니었던가.
+
+그런 차원에서 보면 머신러닝/딥러닝은 어려움의 장벽만 살짝 넘어선다면 재미조차 극대화시킬 수 있는 무언가가 있지 않을까 하는 환상을 가져본다. 
+
+이 블로그는 50을 바라보는 아재이면서 이공계도 아닌 문과생 엔지니어가 어떻게 머신러닝/딥러닝을 배워나가는지를 기록하는 목적으로 만들어졌다. 어쩌면 빠른 성공이 있을 수도 있고 삽질의 연대기가 될 수도 있다. 하지만 실패는 반면 교사로 삼고 성공은 모범 사례로 취한다면 나와 같은 아재들에게는 조금이나마 도움이 될 수 있지 않을까?
+
+나는 음악을 좋아한다. 아재가 되서 우연치 않게 시작한 악기도 이러한 취향에 뿌리를 둔 것이리라. 그래서 나는 머신러닝/딥러닝을 하더라도 음악, 소리 쪽으로 하고 싶다. 물론 전공과목을 가질 자격을 얻기 위해서는 수많은 입문을 거쳐야 하겠지만 일단 지향점을 하나 가지고 시작하고자 한다.
+
+IT밥 오래 먹고 산 아재들은 그냥 나이만 먹은 아재는 아니라는 믿음을 가지고 머신러닝/딥러닝도 한 번 해보도록 하자.
+
+
+## 고마움..
+이 블로그는 [GitHub](https://github.com/chesterhow/tale)의 테마를 사용했다.
+시간과 노력을 투자한 결과를 공짜로 사용할 수 있게 해주어 감사할 따름이다.
