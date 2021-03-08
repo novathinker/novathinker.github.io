@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "온라인강좌 기본적인 Machine Learnnig의 용어와 개념 설명"
+title:  "[온라인강좌] 기본적인 Machine Learnnig의 용어와 개념 설명"
 author:  novathinker
 tags: 머신러닝, 딥러닝
 ---
