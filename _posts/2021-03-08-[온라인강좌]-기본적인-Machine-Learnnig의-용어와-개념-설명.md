@@ -36,4 +36,4 @@ tags: 머신러닝, 딥러닝
  - 다중 라벨 분류 (multi-label classification) : 공부 시간으로 학점을 예측
 
  ?) 다중 라벨 분류는 multi-class분류와 대비하여 얘기가 되던데... 
-    [관련 블로그 : https://blog.naver.com/PostView.nhn?blogId=sw4r&logNo=221714823560&categoryNo=0&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postView]를 참고하도록 하고 일단 넘어가자..
+    [관련 블로그](https://blog.naver.com/PostView.nhn?blogId=sw4r&logNo=221714823560&categoryNo=0&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postView)를 참고하도록 하고 일단 넘어가자..
