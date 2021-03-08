@@ -5,7 +5,7 @@ author:  novathinker
 tags: 머신러닝, 딥러닝
 ---
 
-{% include 기본적인MachineLearnnig의용어와개념설명.html id="기본적인 Machine Learnnig 의 용어와 개념 설명" %}   
+{% include _includes/YouTube.html id="qPMeuL2LIqY" %}   
 
 
 1) 머신러닝은 무엇인가?
