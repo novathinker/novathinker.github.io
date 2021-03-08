@@ -5,7 +5,8 @@ author:  novathinker
 tags: 머신러닝, 딥러닝
 ---
 
-{% include _includes/YouTube.html id="qPMeuL2LIqY" %}   
+
+[![Video Label](http://img.youtube.com/vi/qPMeuL2LIqY/0.jpg)](https://youtu.be/qPMeuL2LIqY) 
 
 
 1) 머신러닝은 무엇인가?
